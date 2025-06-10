@@ -3,4 +3,4 @@ Ruben De Man*, Zhongyu Cai*, Pramath Doddaballapur, Nicole Guerrera, Liqin Lin, 
 
 *,+ authors contributed equally
 
-This repository contains R scripts used for all the data processing and analysis associated with above manuscript.
+This repository contains R scripts used for data processing and analysis associated with above manuscript.
